@@ -1,0 +1,5 @@
+customerId,email,dateOfBirth,riskLevel,retirementAge
+1,bob@bob.com,1961-04-29,3,65
+2,sally@gmail.com,1978-05-01,8,67
+3,mark@gmail.com,1958-05-01,8,67
+4,fred@gmail.com,1998-05-01,8,67
